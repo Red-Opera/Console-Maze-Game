@@ -33,13 +33,21 @@
 <h2 id="Controll">조작법</h2>
 <h3> 이동 조작법 </h3>
 <hr>
+<img src="https://github.com/user-attachments/assets/bb600cf9-4743-4e09-997e-0d8e4b09d3a6" width="73px" height="68px"/> 
+<b>: 위쪽으로 이동</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/601b66dd-14df-4e93-b1de-7fecef141f3b" width="73px" height="68px"/> 
+<b>: 아래쪽으로 이동</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/46b86736-8e56-458c-abf2-ce75e1bce7a3" width="73px" height="68px"/> 
 <b>: 왼쪽으로 이동</b>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/5b03bbd5-86d0-4894-93c3-5cd8232afcc8" width="73px" height="68px"/> 
 <b>: 오른쪽으로 이동</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Enter 키<b>: 확인</b>
+<br>
+<br>
+<img src="https://github.com/user-attachments/assets/15f2e6d0-e175-4c84-9d3d-feb8cb8afb8a" width="158px" height="68px"/> 
+<b>: 확인</b>
 
 <br><br>
 
